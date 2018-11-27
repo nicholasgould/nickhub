@@ -1,3 +1,3 @@
 # nickhub
 ABM
-This repositry ...
+This repository contains the code for a ABM
